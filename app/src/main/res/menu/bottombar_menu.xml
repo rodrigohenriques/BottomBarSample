@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:icon="@drawable/ic_class"
+        android:title="Class" />
+
+    <item
+        android:id="@+id/bottomBarItemTwo"
+        android:icon="@drawable/ic_event"
+        android:title="Event" />
+
+    <item
+        android:id="@+id/bottomBarItemThree"
+        android:icon="@drawable/ic_face"
+        android:title="Face" />
+
+    <item
+        android:id="@+id/bottomBarItemFour"
+        android:icon="@drawable/ic_face"
+        android:title="Face" />
+</menu>
